@@ -28,7 +28,8 @@ This is a simple outline of the process of creating a new repository in GitHub a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<![Screenshot 2024-11-15 144535](https://github.com/user-attachments/assets/a60322bc-b708-466d-b160-3f34e51c990e)
+/>
 </p>
 <p>
 After turning on and  logging into your laptop or desktop, go online and navigate to Github.com. If you already have an account log in, otherwise you can click the sign up botton and follow the directions to create an account.
