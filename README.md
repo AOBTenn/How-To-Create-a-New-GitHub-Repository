@@ -69,5 +69,5 @@ The type of license you want  the material in and the repository to be restricte
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly you  can check the newly created repository by clicking
+Lastly you  can check the newly created repository by clicking the three lined menu botton in the top left corner and it will dropdown showing the new created repository.
 <br />
