@@ -53,15 +53,12 @@ On this new repository page, first you name the repository by clickng and typing
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The type of license you want  the material in and the repository to be restricted under. For a better understanding  on the different license option click on this link:
-  https://choosealicense.com/. Then you click the green "Create Repository" botton to create the repository.
+  https://choosealicense.com/. 
 </p>
 <br />
 
@@ -69,5 +66,9 @@ The type of license you want  the material in and the repository to be restricte
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly you  can check the newly created repository by clicking the three lined menu botton in the top left corner and it will dropdown showing the new created repository.
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then you click the green "Create Repository" botton to create the repository. You will be taken to the new repository page after it is made.
 <br />
